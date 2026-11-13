@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="file_00000000ce1c8211a3dcd079bcee77d9.png" width="100%" alt="Istkhar Alam Software Engineer Banner"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Istkhar Alam</h1>
 <h3 align="center">Aspiring Software Engineer | B.Tech CSE Student</h3>
 
