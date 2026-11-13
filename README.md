@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**istkhar5286/Istkhar5286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Istkhar Alam</h1>
+<h3 align="center">Aspiring Software Engineer | B.Tech CSE Student</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Passionate about building practical software solutions and learning new technologies.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science Engineering Student
+- 💻 Aspiring Software Engineer
+- 🌱 Currently learning Python, DSA and Backend Development
+- 🚀 Interested in building real-world projects
+- 🎯 Goal: Become a skilled Software Engineer
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" />
+</p>
+
+## 📚 Currently Learning
+
+- Python Programming
+- Data Structures & Algorithms
+- Backend Development
+- Problem Solving
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=istkhar5286&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istkhar5286&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<h3 align="center">Keep Learning | Keep Building | Keep Growing 🚀</h3>
